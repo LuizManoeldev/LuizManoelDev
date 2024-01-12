@@ -54,7 +54,7 @@
 <a href="https://www.instagram.com/luizmanoel._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:dantasluizmanoel@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/luiz-manoel-dantas-8b560221b)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/luiz-manoel-dantas-8b560221b"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6r62mxmlnzwd6ir65on4lrgh7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=d760e6&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=6r62mxmlnzwd6ir65on4lrgh7&redirect=true)-->
