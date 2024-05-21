@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Luiz Manoel
-<img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0032.gif' />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizManoelDev&show_icons=true&theme=transparent&line_height=28.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizManoelDev&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
