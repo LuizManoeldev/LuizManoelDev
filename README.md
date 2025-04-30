@@ -1,4 +1,4 @@
-# Backend and IA Developer
+# AI and Backend Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizManoelDev&show_icons=true&rank_icon=github&theme=dark&line_height=20&include_all_commits=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizManoelDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=Pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikitlearn-000000?style=for-the-badge&logo=Scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/AWS_CERTIFIED_PROFESSIONAL-000000?style=for-the-badge&logo=amazon&logoColor=white" />
