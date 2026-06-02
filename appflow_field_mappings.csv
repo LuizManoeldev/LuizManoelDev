@@ -1,0 +1,11 @@
+Source field name,Destination field name,Formula,Data modifications
+Audio,audio,-,-
+Bundle,bundle,-,-
+Created Date Time,createdDateTime,-,-
+CreatedBy,createdBy,-,-
+Deleted,deleted,-,-
+Description,description,-,-
+Entity Content Tag,cTag,-,-
+Entity Tag,eTag,-,-
+File,file,-,-
+File System Info,fileSystemInfo,-,-
